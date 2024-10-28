@@ -4,5 +4,5 @@ public class Stockholm {
 
 
     String newName = "STHL"; //New
-    String cityColor = "Pink"; //new
+    String cityColor = "Blue"; //new
 }
